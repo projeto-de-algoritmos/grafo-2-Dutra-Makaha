@@ -1,18 +1,18 @@
-# NomedoProjeto
-**Número da Lista**: X<br>
+# Strongly Connected Nodes
+**Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0142369  |  [Rafael Makaha](github.com/rafaelmakaha) |
+| 17/0050939  |  [Lucas Dutra](github.com/lucasdutraf) |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. Se necessário, coloque imagens e gifs.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
